@@ -25,14 +25,13 @@
 * _Git clone the repository
 * cd into the new directory
 * In a terminal window:
-  '''console
   * python3.7 -m venv venv
   * source venv/bin/activate
   * pip install -r requirements.txt
-  '''
+
 * open code-review.ipynb in your IDE of choice. OR
 * run code-review.ipynb in your CLI
-
+  
 ## Known Bugs
 
 * No known bugs at this time.
@@ -65,4 +64,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Copyright (c) _November 2022_ _Luke Callahan_
+Copyright (c) _December 2022_ _Luke Callahan_
