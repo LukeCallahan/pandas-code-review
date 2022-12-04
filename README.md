@@ -24,7 +24,12 @@
 
 * _Git clone the repository
 * cd into the new directory
-* open your CLI of choice
+* In a terminal window:
+  '''console
+  * python3.7 -m venv venv
+  * source venv/bin/activate
+  * pip install -r requirements.txt
+  '''
 * open code-review.ipynb in your IDE of choice. OR
 * run code-review.ipynb in your CLI
 
